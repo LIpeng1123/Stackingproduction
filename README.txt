@@ -8,12 +8,15 @@ Python Version Number: 3.10.9
 ============================================================
 Core library version:
 ============================================================
-pandas              : 1.5.3
-numpy               : 1.23.5
-scikit-learn        : 1.2.1
-xgboost             : 1.7.4
-catboost            : 1.2.8
 scipy               : 1.10.0
-matplotlib          : 3.7.0
-shap                : 0.41.0
 openpyxl            : 3.0.10
+streamlit            : 1.52.2
+pandas            : 2.3.3
+numpy            : 2.4.1
+scikit-learn            : 1.6.1
+xgboost            : 2.1.5
+catboost            : 1.2.9
+shap            : 0.46.0
+plotly            : 5.24.1
+joblib            : 1.4.2
+matplotlib            : 3.10.0
